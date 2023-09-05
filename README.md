@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there! My name is Zephyros
 
-<!--
-**ce4os/ce4os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am currently working on:
 
-Here are some ideas to get you started:
+- Linux from scratch - Create my very own linux system
+- Python - learning and mastering 
+- C - learning and mastering
+- Beating every game on [overthewire.org](https://overthewire.org/wargames/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff I enjoy except for computers
+
+- Climbing
+- WingChung Kung Fu
+- Books and poems
+- Playing Guitar
+
