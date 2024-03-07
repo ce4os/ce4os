@@ -1,16 +1,19 @@
-## Hi there! My name is Zephyros
+## Hi there! My name is Christian 
 
-### I am currently working on:
+###  About me and Computers
 
-- Linux from scratch - Create my very own linux system
-- Python - learning and mastering 
-- C - learning and mastering
-- Beating every game on [overthewire.org](https://overthewire.org/wargames/) 
+The feeling of awe and wonder when opened and used a Terminal for the first time never really left. 
+Basically, computers are magical swords and I intend to be able to wield it the best I can. 
+I love solving programming/coding challenges. The feeling when something 
+clicks and the code does exactly what I want it to do. 
 
-### Stuff I enjoy except for computers
+That is why I am currently doing a Python Backend course at DCI. 
 
-- Climbing
-- WingChung Kung Fu
-- Books and poems
-- Playing Guitar
+### Stuff I enjoy except for Computers
+
+There is a real world out there thats is also vast and amazing.  
+I love playing guitar. For myself and with others. 
+Climbing and WingChun Kung Fu give me balance and inner peace.
+Books and poems are a source of beauty and inspiration for me.
+
 
