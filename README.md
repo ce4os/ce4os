@@ -1,20 +1,19 @@
 ## Hi there! My name is Christian - Welcome to my github 
 
-###  About me and computers
+###  About computers and me
 
-The feeling of awe and wonder when opened and used a Terminal for the first time never really left. 
-Basically, computers are magical swords and I intend to be able to wield it the best I can. 
-I love solving programming/coding challenges. The feeling when something 
-clicks and the code does exactly what I want it to do. 
+The feeling of awe and wonder when I opened and used a Terminal on Linux for the first time never really left. 
+To me, computers are akin to magical swords and I'm commited to learning and mastering their capabilities. 
+I love solving programming/coding challenges. Solving programming challenges brings me immense satisfaction, 
+and I cherish those moments when code finally runs smoothly after debugging.
 
-That is why I am currently doing a Python Backend course at DCI. 
-I am currently working as a tutor for my classmates.
+Currently, I'm enrolled in a full-time Python programming course at DCI while also 
+sharing my knowledge as a programming tutor.
 
 ### Other stuff I enjoy
 
-There is a real world out there thats is also vast and amazing.  
-I love playing guitar. For myself and with others. 
-Climbing and WingChun Kung Fu give me balance and inner peace.
-Books and poems are a source of beauty and inspiration for me.
+Outside of the digital realm, I find joy in playing guitar, practicing WingChun Kung Fu, and climbing. 
+Books and poetry serve as sources of inspiration and beauty in my life.
 
+Thanks for taking the time to explore my profile. Feel free to browse through my projects!
 
