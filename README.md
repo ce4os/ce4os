@@ -14,7 +14,7 @@ Automating setup:
 https://github.com/ce4os/setup_aoc
 
 
-### Pending
+### Pending Projects
 
 #### Rebuilding blog.fefe.de
 https://github.com/ce4os/django-website
