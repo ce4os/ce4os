@@ -2,9 +2,6 @@
 
 ### Active projects:
 
-#### DCI final project: FitBastards
-https://github.com/wirrexx/fit_jerk
-The other fitness app. 
 
 #### Advent of Code:
 Repository for reference and to show my coding proficiency to future employers
@@ -16,6 +13,10 @@ https://github.com/ce4os/setup_aoc
 
 ### Pending Projects
 
+#### DCI final project: FitBastards
+https://github.com/wirrexx/fit_jerk
+The other fitness app. 
+
 #### Rebuilding blog.fefe.de
 https://github.com/ce4os/django-website
 A rebuild of the pretty awesome blog of Felix von Leitner
@@ -23,7 +24,6 @@ A rebuild of the pretty awesome blog of Felix von Leitner
 #### Building my own blog
 https://github.com/ce4os/blog/
 Building my own blog with django
-
 
 
 ###  About computers and me
